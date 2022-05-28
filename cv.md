@@ -1,9 +1,10 @@
 # Anastasiya  Kazakova
 ## Contacts
+- Gomel, Belarus 
 - +3752917446224
-- Gomel, Belarus
--  anastasiya.anast.ru@mail.ru
+- anastasiya.anast.ru@mail.ru
 -  GitHub - anastasia19141918
+- instagram - anastasiarenesk
 ## About me
 
 Hello, recently started studying front-end. It is not easy:(
