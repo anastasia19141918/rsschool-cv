@@ -1,4 +1,11 @@
 @import "base/base";
 @import "abstract/constans";
+
+// layouts
 @import "layouts/wrapper";
+@import "layouts/header";
+
+// component
+@import "component/footer";
+@import "component/promo";
 

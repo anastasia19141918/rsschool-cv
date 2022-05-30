@@ -29,10 +29,68 @@ h2 {
 
 p {
   font-family: "Ubuntu", Verdana, sans-serif;
-  font-size: 22px;
+  font-size: 21px;
   font-style: normal;
   font-weight: 300;
   line-height: 30px;
+}
+
+.wrapper {
+  max-width: 1197px;
+  margin: auto;
+}
+
+.header {
+  background-color: #20B2AA;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+  padding: 15px 0 17px;
+}
+
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_navigation {
+  padding: 0 60px;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigtion__link {
+  list-style: none;
+  padding: 0 25px;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+}
+
+.nav-link:hover {
+  color: #FFDAB9;
+}
+
+.footer-container {
+  background: #20B2AA;
+}
+
+.promo {
+  padding: 30px 0;
+}
+
+.promo__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.portfolio-contect {
+  padding: 100px 60px 0 0;
 }
 
 /*# sourceMappingURL=style.css.map */
