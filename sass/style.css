@@ -193,4 +193,18 @@ p {
   color: #20B2AA;
 }
 
+.section_edication {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
+.section_english {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
 /*# sourceMappingURL=style.css.map */
