@@ -1,3 +1,28 @@
 .footer-container {
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.05);
     background: $color-backround;
+}
+
+.footer__wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-weight: 600;
+}
+
+.img_school {
+    width: 150px;
+    height: 150px;
+}
+
+.git_footer {
+    text-decoration: none;
+    color: $color-style;
+    font-size: 20px;
+}
+
+.git_footer:hover {
+   color: $color-brend;
 }
