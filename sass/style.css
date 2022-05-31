@@ -93,4 +93,33 @@ p {
   padding: 100px 60px 0 0;
 }
 
+.informations {
+  padding: 30px 0;
+  background: #FFDAB9;
+}
+
+.contacts__Link {
+  text-align: left;
+}
+
+.inform__contact {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.contacts__Link {
+  list-style: none;
+  font-size: 20px;
+}
+
+.con__Link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.con__Link:hover {
+  color: #20B2AA;
+}
+
 /*# sourceMappingURL=style.css.map */
