@@ -122,4 +122,42 @@ p {
   color: #20B2AA;
 }
 
+.summarys {
+  margin: 30px 0;
+  padding: 10px;
+  background: #FFDAB9;
+  text-align: center;
+}
+
+.skill {
+  padding: 20px;
+  background: #FFDAB9;
+}
+
+.skill__wrapper {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.knowledge {
+  text-align: left;
+  font-size: 20px;
+}
+
+.inf-content {
+  padding: 30px 0;
+}
+
+.section_code {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
+.content_code {
+  font-size: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
