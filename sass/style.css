@@ -160,4 +160,37 @@ p {
   font-size: 20px;
 }
 
+.section_project {
+  padding: 10px;
+  background: #FFDAB9;
+}
+
+.project__wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.ul_project {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: 25px;
+}
+
+.link_project {
+  list-style: none;
+  padding: 10px;
+}
+
+.exsemple_project {
+  text-decoration: none;
+  color: #000000;
+}
+
+.exsemple_project:hover {
+  color: #20B2AA;
+}
+
 /*# sourceMappingURL=style.css.map */
