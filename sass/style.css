@@ -1,0 +1,235 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("fonts/AnyConv.com__UbuntuCondensed-Regular.woff2") url("fonts/UbuntuCondensed-Regular.woff");
+}
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Ubuntu", Verdana, sans-serif;
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-family: "Ubuntu", Verdana, sans-serif;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 54px;
+}
+
+h2 {
+  font-family: "Ubuntu", Verdana, sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 46px;
+}
+
+p {
+  font-family: "Ubuntu", Verdana, sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.wrapper {
+  max-width: 1197px;
+  margin: auto;
+}
+
+.header {
+  background-color: #20B2AA;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+  padding: 15px 0 17px;
+}
+
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header_navigation {
+  padding: 0 60px;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigtion__link {
+  list-style: none;
+  padding: 0 25px;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 25px;
+  color: #000000;
+}
+
+.nav-link:hover {
+  color: #FFDAB9;
+}
+
+.footer-container {
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+  background: #20B2AA;
+}
+
+.footer__wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 17px;
+  font-weight: 600;
+}
+
+.img_school {
+  width: 150px;
+  height: 150px;
+}
+
+.git_footer {
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px;
+}
+
+.git_footer:hover {
+  color: #FFDAB9;
+}
+
+.promo {
+  padding: 30px 0;
+}
+
+.promo__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.portfolio-contect {
+  padding: 100px 60px 0 0;
+}
+
+.informations {
+  padding: 30px 0;
+  background: #FFDAB9;
+}
+
+.contacts__Link {
+  text-align: left;
+}
+
+.inform__contact {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.contacts__Link {
+  list-style: none;
+  font-size: 20px;
+}
+
+.con__Link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.con__Link:hover {
+  color: #20B2AA;
+}
+
+.summarys {
+  margin: 30px 0;
+  padding: 10px;
+  background: #FFDAB9;
+  text-align: center;
+}
+
+.skill {
+  padding: 20px;
+  background: #FFDAB9;
+}
+
+.skill__wrapper {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.knowledge {
+  text-align: left;
+  font-size: 20px;
+}
+
+.inf-content {
+  padding: 30px 0;
+}
+
+.section_code {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
+.content_code {
+  font-size: 20px;
+}
+
+.section_project {
+  padding: 10px;
+  background: #FFDAB9;
+}
+
+.project__wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.ul_project {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  font-size: 25px;
+}
+
+.link_project {
+  list-style: none;
+  padding: 10px;
+}
+
+.exsemple_project {
+  text-decoration: none;
+  color: #000000;
+}
+
+.exsemple_project:hover {
+  color: #20B2AA;
+}
+
+.section_edication {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
+.section_english {
+  margin: 30px 0;
+  padding: 20px;
+  text-align: center;
+  background: #FFDAB9;
+}
+
+/*# sourceMappingURL=style.css.map */

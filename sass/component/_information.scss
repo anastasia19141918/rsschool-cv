@@ -1,0 +1,29 @@
+.informations {
+    padding: 30px 0;
+    background: $color-brend;
+}
+
+.contacts__Link {
+    text-align: left;
+}
+
+.inform__contact {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.contacts__Link {
+    list-style: none;
+    font-size: 20px;
+}
+
+.con__Link {
+    text-decoration: none;
+    color: $color-style;
+}
+
+.con__Link:hover {
+    color: $color-backround;
+}
+
