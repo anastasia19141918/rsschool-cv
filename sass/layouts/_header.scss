@@ -1,0 +1,36 @@
+.header {
+    background-color: $color-backround;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.05);
+    padding: 15px 0 17px;
+    
+}
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header_navigation {
+    padding: 0 60px;
+}
+
+.navigation {
+    display: flex;
+
+}
+
+.navigtion__link {
+    list-style: none;
+    padding: 0 25px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: 25px;
+    color: $color-style;
+}
+
+.nav-link:hover {
+    color: $color-brend;
+}
